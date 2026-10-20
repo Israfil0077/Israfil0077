@@ -1,7 +1,7 @@
 <h1 align="center">Md. Israfil Hossain</h1>
 
 <p align="center">
-  <b>CSE undergraduate · Machine Learning · Green AI · Full-Stack Development</b><br>
+  <b>Computer Science & Engineering Student · AI & Machine Learning · Data Science</b><br>
   United International University, Dhaka, Bangladesh
 </p>
 
@@ -14,14 +14,21 @@
 
 ### About
 
-I am a Computer Science and Engineering student at United International University with a strong interest in
-artificial intelligence and machine learning. I enjoy turning data into models that solve real problems, and I care
-about building them so they are accurate, efficient and reliable in practice. Outside ML, I also like building
-full-stack web applications.
+I am a Computer Science and Engineering student at United International University, driven by curiosity and a
+growing interest in artificial intelligence and machine learning. I enjoy exploring how intelligent systems work and
+how data can be used to solve real-world problems.
 
-- **Interests:** machine learning, deep learning, data science, green AI
-- **Learning:** deep learning, MLOps and experiment design
-- **Open to:** internships and research collaboration in AI/ML
+I am still early in my journey, so my focus is on building a strong foundation: learning new technologies, taking on
+new challenges and collaborating with others. I believe in steady self-improvement and try to grow a little every day.
+
+**Interested in**
+- Artificial intelligence and machine learning
+- Data science
+- Problem-solving and algorithmic thinking
+- Building practical, useful solutions
+
+**Looking for** opportunities to learn, contribute and gain hands-on experience as I work toward becoming an AI/ML
+professional.
 
 ### Featured projects
 
