@@ -36,7 +36,7 @@ professional.
 |---|---|---|
 | [**Energy-Aware ML Model Selection**](https://github.com/Israfil0077/energy-aware-ml-model-selection) | Research framework that ranks six forecasting models (from Linear Regression to an LSTM) on accuracy, training cost, energy/CO₂ and robustness with TOPSIS, using real cloud traces from 1,250 VMs. Includes the full paper. | Python, scikit-learn, XGBoost, LightGBM, PyTorch, CodeCarbon |
 | [**Cats vs Dogs Image Classifier**](https://github.com/Israfil0077/cat_vs_dog_image_classifier) | Image classifier using MobileNetV2 transfer learning (90–95% accuracy), served through an interactive Streamlit web app with confidence charts. | TensorFlow, OpenCV, Streamlit, Plotly |
-| [**Metro Police System**](https://github.com/Israfil0077/Metro-Police-project) | Full-stack digital policing platform: online general diary, traffic fines, emergency SOS, crime mapping and an admin dashboard. | React, Tailwind CSS, Node.js, Express, MySQL, JWT |
+| [**Metro Police System**](https://github.com/Israfil0077/Metro-Police-project) | Full-stack digital policing platform: online general diary, traffic fines, emergency SOS, crime mapping and an admin dashboard. [Live demo](https://israfil0077.github.io/Metro-Police-project/) | React, Tailwind CSS, Node.js, Express, MySQL, JWT |
 | [**VitalSense Monitor**](https://github.com/Israfil0077/vitalsense-monitor) | Dashboard for ESP32 heart-rate and SpO₂ sensor readings, with a simulator for testing without hardware. | Python, Streamlit, ESP32 |
 | [**UIU Web Programming Exam Prep**](https://github.com/Israfil0077/WEB_Final_Exam_prep) | Solved past final exams for UIU's Web Programming course, organised by trimester, with templates and a cheat sheet. | JavaScript, PHP, MySQL |
 
