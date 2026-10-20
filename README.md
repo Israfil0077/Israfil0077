@@ -14,12 +14,12 @@
 
 ### About
 
-I am a Computer Science and Engineering student at United International University. My main interest is machine
-learning: building models that are accurate, but also efficient, reproducible and sensible to deploy. My most recent
-work is a research project on choosing machine learning models for cloud data centers by accuracy, cost, energy use
-and robustness. I also build full-stack web applications and small IoT dashboards.
+I am a Computer Science and Engineering student at United International University with a strong interest in
+artificial intelligence and machine learning. I enjoy turning data into models that solve real problems, and I care
+about building them so they are accurate, efficient and reliable in practice. Outside ML, I also like building
+full-stack web applications.
 
-- **Currently:** energy-aware model selection and time-series forecasting
+- **Interests:** machine learning, deep learning, data science, green AI
 - **Learning:** deep learning, MLOps and experiment design
 - **Open to:** internships and research collaboration in AI/ML
 
